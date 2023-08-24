@@ -28,6 +28,7 @@ Esta guía detalla los pasos necesarios para configurar y utilizar un proyecto S
 
 1. Crea un servicio llamado `TaskService` que utilice el `TaskRepository` para implementar los métodos de CRUD (por ejemplo, `createTask`, `getTask`, `updateTask`, `deleteTask`, etc.).
 ![L5](img/5.png)
+![L6](img/6.png)
 
 ## Paso 6: Pruebas
 
@@ -35,6 +36,12 @@ Esta guía detalla los pasos necesarios para configurar y utilizar un proyecto S
 2. Envía solicitudes POST, GET, PUT y DELETE para crear, leer, actualizar y eliminar tareas.
 
 ¡Ahora estás listo para desarrollar y probar tu aplicación Spring Boot con acceso a una base de datos en memoria!
+![L7](img/7.png)
+![L8](img/8.png)
+![L9](img/9.png)
+![L10](img/10.png)
+![L11](img/11.png)
+![L12](img/12.png)
 
 ## Nota
 
