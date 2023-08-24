@@ -7,6 +7,7 @@ Esta guía detalla los pasos necesarios para configurar y utilizar un proyecto S
 
 1. Crea un nuevo proyecto Spring Boot utilizando Spring Initializr. Asegúrate de incluir las dependencias necesarias para crear una aplicación web y acceder a una base de datos en memoria (por ejemplo, H2).
 2. Configura la conexión a la base de datos en el archivo `application.properties`.
+![Logo de la ESPE](img/1.png)
 
 ## Paso 2: Modelo de Datos
 
