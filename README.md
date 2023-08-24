@@ -17,12 +17,12 @@ Esta guía detalla los pasos necesarios para configurar y utilizar un proyecto S
 ## Paso 3: Repositorio
 
 1. Crea un repositorio llamado `TaskRepository` que extienda `JpaRepository`. Este repositorio te permitirá acceder a la base de datos y realizar operaciones CRUD sobre las tareas.
-![L3](img/3.png)
+![L4](img/4.png)
 
 ## Paso 4: Controlador
 
 1. Crea un controlador llamado `TaskController` con rutas para cada operación CRUD (por ejemplo, `/api/tasks`). Utiliza las siguientes anotaciones: `@RestController`, `@GetMapping`, `@PostMapping`, `@PutMapping`, `@DeleteMapping`.
-![L4](img/4.png)
+![L3](img/3.png)
 
 ## Paso 5: Servicio
 
